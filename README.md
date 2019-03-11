@@ -3,4 +3,4 @@ this repositories will include open source [free to use] illustration made by me
 
 ### Month Pie Chart
 
-![Month Pie Chart](https://github.com/xXLUCIFERINXx/illustrations/monthsPieChart/0.75x/pieChartArtboard\ 1ldpi.png "Month Pie Chart")
+![alt text](https://github.com/xxluciferinxx/illustrations/monthsPieChart/0.75x/pieChartArtboard 1ldpi.png "Months Pie Chart")
